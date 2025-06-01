@@ -35,3 +35,7 @@ Future work should focus on:
 * Exploring more advanced semantic methods, such as **BERTopic** and **word2vec representations**.
 * Using more performant models.
 * Developing dual solutions that combine both document features and query-specific features (like polysemous words) to further improve clarification capabilities.
+
+## Datasets
+[**[Link to Datasets]**](https://drive.google.com/drive/folders/1H38wT871I3oiIgn34Sx57Cc7mnYWGF1r?usp=sharing)
+

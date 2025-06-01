@@ -1,0 +1,4 @@
+datasets/EN_bm25.pkl
+datasets/FR_bm25.pkl
+datasets/dataset_en.json
+datasets/dataset_fr.json
